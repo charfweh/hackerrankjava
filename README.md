@@ -1,2 +1,2 @@
-# hackerrankjava
-spaghetti java code
+# hacker rank java 
+spaghetti java coderun
